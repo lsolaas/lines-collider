@@ -1,3 +1,5 @@
+// Un pequeño cambio
+
 var tickers = new Set();
 var t = 0;
 
